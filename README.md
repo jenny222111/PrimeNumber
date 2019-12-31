@@ -1,0 +1,2 @@
+# PrimeNumber
+print prime number
